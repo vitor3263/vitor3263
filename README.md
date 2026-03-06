@@ -7,3 +7,4 @@ Esses são os meus interesses:
 - Jogar Vôlei
 - Ler
 - Jogar videogame
+- Ir para uma cafeteria
