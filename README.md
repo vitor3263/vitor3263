@@ -1,10 +1,10 @@
-# Olá Mundo!
+# Bem vindos!
 
-Meu nome é Vitor. Atualmente estou cursando Técnico em Informática.
+Meu nome é Vitor. Atualmente estou cursando Técnico em Informática na UFSM.
 
-Esses são os meus interesses:
+Meus interesses:
 
 - Jogar Vôlei
 - Ler
 - Jogar videogame
-- Ir para uma cafeteria
+- Café
